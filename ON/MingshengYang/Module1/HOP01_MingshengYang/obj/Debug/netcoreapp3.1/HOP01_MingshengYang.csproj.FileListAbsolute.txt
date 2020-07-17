@@ -1,0 +1,11 @@
+C:\Users\v-mingsy\source\repos\HOP01_MingshengYang\bin\Debug\netcoreapp3.1\HOP01_MingshengYang.exe
+C:\Users\v-mingsy\source\repos\HOP01_MingshengYang\bin\Debug\netcoreapp3.1\HOP01_MingshengYang.deps.json
+C:\Users\v-mingsy\source\repos\HOP01_MingshengYang\bin\Debug\netcoreapp3.1\HOP01_MingshengYang.runtimeconfig.json
+C:\Users\v-mingsy\source\repos\HOP01_MingshengYang\bin\Debug\netcoreapp3.1\HOP01_MingshengYang.runtimeconfig.dev.json
+C:\Users\v-mingsy\source\repos\HOP01_MingshengYang\bin\Debug\netcoreapp3.1\HOP01_MingshengYang.dll
+C:\Users\v-mingsy\source\repos\HOP01_MingshengYang\bin\Debug\netcoreapp3.1\HOP01_MingshengYang.pdb
+C:\Users\v-mingsy\source\repos\HOP01_MingshengYang\obj\Debug\netcoreapp3.1\HOP01_MingshengYang.csprojAssemblyReference.cache
+C:\Users\v-mingsy\source\repos\HOP01_MingshengYang\obj\Debug\netcoreapp3.1\HOP01_MingshengYang.AssemblyInfoInputs.cache
+C:\Users\v-mingsy\source\repos\HOP01_MingshengYang\obj\Debug\netcoreapp3.1\HOP01_MingshengYang.AssemblyInfo.cs
+C:\Users\v-mingsy\source\repos\HOP01_MingshengYang\obj\Debug\netcoreapp3.1\HOP01_MingshengYang.dll
+C:\Users\v-mingsy\source\repos\HOP01_MingshengYang\obj\Debug\netcoreapp3.1\HOP01_MingshengYang.pdb
