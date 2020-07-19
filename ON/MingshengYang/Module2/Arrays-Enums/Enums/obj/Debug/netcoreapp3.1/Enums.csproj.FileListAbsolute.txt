@@ -1,0 +1,11 @@
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module2\Arrays-Enums\Enums\bin\Debug\netcoreapp3.1\Enums.exe
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module2\Arrays-Enums\Enums\bin\Debug\netcoreapp3.1\Enums.deps.json
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module2\Arrays-Enums\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.json
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module2\Arrays-Enums\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.dev.json
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module2\Arrays-Enums\Enums\bin\Debug\netcoreapp3.1\Enums.dll
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module2\Arrays-Enums\Enums\bin\Debug\netcoreapp3.1\Enums.pdb
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module2\Arrays-Enums\Enums\obj\Debug\netcoreapp3.1\Enums.csprojAssemblyReference.cache
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module2\Arrays-Enums\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfoInputs.cache
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module2\Arrays-Enums\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfo.cs
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module2\Arrays-Enums\Enums\obj\Debug\netcoreapp3.1\Enums.dll
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module2\Arrays-Enums\Enums\obj\Debug\netcoreapp3.1\Enums.pdb

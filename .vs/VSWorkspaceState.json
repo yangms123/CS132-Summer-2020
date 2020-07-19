@@ -3,8 +3,13 @@
     "",
     "\\ON",
     "\\ON\\MingshengYang",
-    "\\ON\\MingshengYang\\Module1"
+    "\\ON\\MingshengYang\\Module1",
+    "\\ON\\MingshengYang\\Module2",
+    "\\ON\\MingshengYang\\Module2\\Arrays-Enums",
+    "\\ON\\MingshengYang\\Module2\\Arrays-Enums\\Arrays",
+    "\\ON\\MingshengYang\\Module2\\Arrays-Enums\\Arrays\\bin",
+    "\\ON\\MingshengYang\\Module2\\Arrays-Enums\\Arrays\\obj"
   ],
-  "SelectedNode": "\\ON\\MingshengYang\\Module1",
+  "SelectedNode": "\\ON\\MingshengYang\\Module2\\Arrays-Enums\\Arrays",
   "PreviewInSolutionExplorer": false
 }
