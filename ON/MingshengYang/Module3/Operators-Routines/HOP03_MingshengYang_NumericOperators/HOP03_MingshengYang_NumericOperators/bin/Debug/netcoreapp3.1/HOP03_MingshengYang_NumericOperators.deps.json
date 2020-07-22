@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HOP03_MingshengYang_NumericOperators/1.0.0": {
+        "runtime": {
+          "HOP03_MingshengYang_NumericOperators.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HOP03_MingshengYang_NumericOperators/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

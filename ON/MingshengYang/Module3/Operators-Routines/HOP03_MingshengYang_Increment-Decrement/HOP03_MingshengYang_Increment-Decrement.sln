@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HOP03_MingshengYang_Increment-Decrement", "HOP03_MingshengYang_Increment-Decrement.csproj", "{46017ADC-FCD9-4462-B892-94C677811F17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46017ADC-FCD9-4462-B892-94C677811F17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46017ADC-FCD9-4462-B892-94C677811F17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46017ADC-FCD9-4462-B892-94C677811F17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46017ADC-FCD9-4462-B892-94C677811F17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1CB0F87-FD03-44CB-8F8E-392149444FBC}
+	EndGlobalSection
+EndGlobal
