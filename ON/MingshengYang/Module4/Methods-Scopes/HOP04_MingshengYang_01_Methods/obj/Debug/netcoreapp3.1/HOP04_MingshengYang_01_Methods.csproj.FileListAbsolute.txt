@@ -1,0 +1,11 @@
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module4\HOP04_MingshengYang_01_Methods\bin\Debug\netcoreapp3.1\HOP04_MingshengYang_01_Methods.exe
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module4\HOP04_MingshengYang_01_Methods\bin\Debug\netcoreapp3.1\HOP04_MingshengYang_01_Methods.deps.json
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module4\HOP04_MingshengYang_01_Methods\bin\Debug\netcoreapp3.1\HOP04_MingshengYang_01_Methods.runtimeconfig.json
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module4\HOP04_MingshengYang_01_Methods\bin\Debug\netcoreapp3.1\HOP04_MingshengYang_01_Methods.runtimeconfig.dev.json
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module4\HOP04_MingshengYang_01_Methods\bin\Debug\netcoreapp3.1\HOP04_MingshengYang_01_Methods.dll
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module4\HOP04_MingshengYang_01_Methods\bin\Debug\netcoreapp3.1\HOP04_MingshengYang_01_Methods.pdb
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module4\HOP04_MingshengYang_01_Methods\obj\Debug\netcoreapp3.1\HOP04_MingshengYang_01_Methods.csprojAssemblyReference.cache
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module4\HOP04_MingshengYang_01_Methods\obj\Debug\netcoreapp3.1\HOP04_MingshengYang_01_Methods.AssemblyInfoInputs.cache
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module4\HOP04_MingshengYang_01_Methods\obj\Debug\netcoreapp3.1\HOP04_MingshengYang_01_Methods.AssemblyInfo.cs
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module4\HOP04_MingshengYang_01_Methods\obj\Debug\netcoreapp3.1\HOP04_MingshengYang_01_Methods.dll
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module4\HOP04_MingshengYang_01_Methods\obj\Debug\netcoreapp3.1\HOP04_MingshengYang_01_Methods.pdb
