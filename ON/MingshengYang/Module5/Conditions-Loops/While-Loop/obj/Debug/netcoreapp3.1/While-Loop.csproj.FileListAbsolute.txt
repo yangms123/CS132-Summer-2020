@@ -1,0 +1,10 @@
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module5\New folder\While-Loop\bin\Debug\netcoreapp3.1\While-Loop.exe
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module5\New folder\While-Loop\bin\Debug\netcoreapp3.1\While-Loop.deps.json
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module5\New folder\While-Loop\bin\Debug\netcoreapp3.1\While-Loop.runtimeconfig.json
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module5\New folder\While-Loop\bin\Debug\netcoreapp3.1\While-Loop.runtimeconfig.dev.json
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module5\New folder\While-Loop\bin\Debug\netcoreapp3.1\While-Loop.dll
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module5\New folder\While-Loop\bin\Debug\netcoreapp3.1\While-Loop.pdb
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module5\New folder\While-Loop\obj\Debug\netcoreapp3.1\While-Loop.AssemblyInfoInputs.cache
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module5\New folder\While-Loop\obj\Debug\netcoreapp3.1\While-Loop.AssemblyInfo.cs
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module5\New folder\While-Loop\obj\Debug\netcoreapp3.1\While-Loop.dll
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module5\New folder\While-Loop\obj\Debug\netcoreapp3.1\While-Loop.pdb
