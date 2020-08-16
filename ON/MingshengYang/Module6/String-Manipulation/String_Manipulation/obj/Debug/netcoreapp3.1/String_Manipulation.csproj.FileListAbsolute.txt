@@ -1,0 +1,11 @@
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module6\String-Manipulation\String_Manipulation\bin\Debug\netcoreapp3.1\String_Manipulation.exe
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module6\String-Manipulation\String_Manipulation\bin\Debug\netcoreapp3.1\String_Manipulation.deps.json
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module6\String-Manipulation\String_Manipulation\bin\Debug\netcoreapp3.1\String_Manipulation.runtimeconfig.json
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module6\String-Manipulation\String_Manipulation\bin\Debug\netcoreapp3.1\String_Manipulation.runtimeconfig.dev.json
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module6\String-Manipulation\String_Manipulation\bin\Debug\netcoreapp3.1\String_Manipulation.dll
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module6\String-Manipulation\String_Manipulation\bin\Debug\netcoreapp3.1\String_Manipulation.pdb
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module6\String-Manipulation\String_Manipulation\obj\Debug\netcoreapp3.1\String_Manipulation.csprojAssemblyReference.cache
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module6\String-Manipulation\String_Manipulation\obj\Debug\netcoreapp3.1\String_Manipulation.AssemblyInfoInputs.cache
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module6\String-Manipulation\String_Manipulation\obj\Debug\netcoreapp3.1\String_Manipulation.AssemblyInfo.cs
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module6\String-Manipulation\String_Manipulation\obj\Debug\netcoreapp3.1\String_Manipulation.dll
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module6\String-Manipulation\String_Manipulation\obj\Debug\netcoreapp3.1\String_Manipulation.pdb
