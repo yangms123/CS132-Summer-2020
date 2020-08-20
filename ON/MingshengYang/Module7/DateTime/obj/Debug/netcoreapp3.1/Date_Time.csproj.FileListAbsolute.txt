@@ -1,0 +1,11 @@
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module7\DateTime\bin\Debug\netcoreapp3.1\Date_Time.exe
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module7\DateTime\bin\Debug\netcoreapp3.1\Date_Time.deps.json
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module7\DateTime\bin\Debug\netcoreapp3.1\Date_Time.runtimeconfig.json
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module7\DateTime\bin\Debug\netcoreapp3.1\Date_Time.runtimeconfig.dev.json
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module7\DateTime\bin\Debug\netcoreapp3.1\Date_Time.dll
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module7\DateTime\bin\Debug\netcoreapp3.1\Date_Time.pdb
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module7\DateTime\obj\Debug\netcoreapp3.1\Date_Time.csprojAssemblyReference.cache
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module7\DateTime\obj\Debug\netcoreapp3.1\Date_Time.AssemblyInfoInputs.cache
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module7\DateTime\obj\Debug\netcoreapp3.1\Date_Time.AssemblyInfo.cs
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module7\DateTime\obj\Debug\netcoreapp3.1\Date_Time.dll
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module7\DateTime\obj\Debug\netcoreapp3.1\Date_Time.pdb
