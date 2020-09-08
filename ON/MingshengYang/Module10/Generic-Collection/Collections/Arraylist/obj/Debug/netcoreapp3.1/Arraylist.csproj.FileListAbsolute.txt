@@ -1,0 +1,11 @@
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module10\Generic-Collection\Collections\Arraylist\bin\Debug\netcoreapp3.1\Arraylist.exe
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module10\Generic-Collection\Collections\Arraylist\bin\Debug\netcoreapp3.1\Arraylist.deps.json
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module10\Generic-Collection\Collections\Arraylist\bin\Debug\netcoreapp3.1\Arraylist.runtimeconfig.json
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module10\Generic-Collection\Collections\Arraylist\bin\Debug\netcoreapp3.1\Arraylist.runtimeconfig.dev.json
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module10\Generic-Collection\Collections\Arraylist\bin\Debug\netcoreapp3.1\Arraylist.dll
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module10\Generic-Collection\Collections\Arraylist\bin\Debug\netcoreapp3.1\Arraylist.pdb
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module10\Generic-Collection\Collections\Arraylist\obj\Debug\netcoreapp3.1\Arraylist.csprojAssemblyReference.cache
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module10\Generic-Collection\Collections\Arraylist\obj\Debug\netcoreapp3.1\Arraylist.AssemblyInfoInputs.cache
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module10\Generic-Collection\Collections\Arraylist\obj\Debug\netcoreapp3.1\Arraylist.AssemblyInfo.cs
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module10\Generic-Collection\Collections\Arraylist\obj\Debug\netcoreapp3.1\Arraylist.dll
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module10\Generic-Collection\Collections\Arraylist\obj\Debug\netcoreapp3.1\Arraylist.pdb

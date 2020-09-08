@@ -1,0 +1,11 @@
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module10\GenericType\bin\Debug\netcoreapp3.1\GenericType.exe
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module10\GenericType\bin\Debug\netcoreapp3.1\GenericType.deps.json
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module10\GenericType\bin\Debug\netcoreapp3.1\GenericType.runtimeconfig.json
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module10\GenericType\bin\Debug\netcoreapp3.1\GenericType.runtimeconfig.dev.json
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module10\GenericType\bin\Debug\netcoreapp3.1\GenericType.dll
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module10\GenericType\bin\Debug\netcoreapp3.1\GenericType.pdb
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module10\GenericType\obj\Debug\netcoreapp3.1\GenericType.csprojAssemblyReference.cache
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module10\GenericType\obj\Debug\netcoreapp3.1\GenericType.AssemblyInfoInputs.cache
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module10\GenericType\obj\Debug\netcoreapp3.1\GenericType.AssemblyInfo.cs
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module10\GenericType\obj\Debug\netcoreapp3.1\GenericType.dll
+C:\Users\v-mingsy\source\repos\CS132-Summer-2020\ON\MingshengYang\Module10\GenericType\obj\Debug\netcoreapp3.1\GenericType.pdb
